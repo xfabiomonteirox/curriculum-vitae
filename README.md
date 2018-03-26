@@ -5,7 +5,7 @@ Blumenau-SC
 
 ####Front-End Developer
 
-**Telefone:** (47) 996438851
+**Telefone:** (47) 9 9643-8851
 
 **E-mail:** xfabiomonteirox@gmail.com
 
