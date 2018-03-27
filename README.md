@@ -18,7 +18,7 @@ Blumenau-SC
 
 ## Competências
 
-**Back-git staEnd:**
+**Back-End:**
 * PHP
 * Jekyll
 
