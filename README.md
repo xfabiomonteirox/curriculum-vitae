@@ -18,11 +18,11 @@ Blumenau-SC
 
 ## Competências
 
-**BackEnd:**
+**Back-git staEnd:**
 * PHP
 * Jekyll
 
-**FrontEnd:**
+**Front-End:**
 * HTML5/CSS3
 * Bootstrap
 * Responsive Design
@@ -72,7 +72,7 @@ Blumenau-SC
 > Atuei como professor de informática básica na rede municipal de ensino da cidade de São Bento do Sul - Santa Catarina. Fiz parte do projeto municipal Conect@ São Bento, cujo objetivo era garantir a inclusão digital e melhoria na qualidade de ensino para alunos da rede municipal de ensino.
 
 * mar-2011/dez-2013 - Bolsista Monitor - **Universidade do Estado de Santa Catarina**
-> Atuei como bolsista monitor nas displinas de Algoritmos e Fundamentos Matemáticos para Informática, na área administrativa da Universidade no setor de Almoxarifado e na área de iniciação científica como pesquisador da cadeia apícola de São Bento do Sul e região.
+> Atuei como bolsista monitor nas disciplinas de Algoritmos e Fundamentos Matemáticos para Informática, na área administrativa da Universidade no setor de Almoxarifado e na área de iniciação científica como pesquisador da cadeia apícola de São Bento do Sul e região.
 
 ---
 
