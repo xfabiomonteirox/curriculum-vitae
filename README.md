@@ -19,6 +19,7 @@ Blumenau-SC
 ## Competências
 
 **Back-End:**
+* C#
 * PHP
 * Jekyll
 
@@ -79,5 +80,6 @@ Blumenau-SC
 ## Formação
 
 * **Graduação** - Sistemas de Informação pela Universidade do Estado de Santa Catarina - UDESC/CEPLAN
+* **Cursando** - C#.Net por Programa Entra21 Blusoft
 * **Curso** - Criando sites estáticos com Jekyll por Willian Justen de Vasconcellos
-* **Curso** - Git e Github para iniciantes por Willian Justen de Vasconcellos
+* **Curso** - Git e Github para iniciantes por Willian Justen de Vasconcellos 
