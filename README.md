@@ -1,10 +1,9 @@
 # Fábio Alexandre Monteiro
-Blumenau-SC
+
+Rua Benjamin Constant, 2438
+Bairro: Vila Nova, CEP: 89035-100 - Blumenau-SC
 
 ---
-
-####Front-End Developer
-
 **Telefone:** (47) 9 9643-8851
 
 **E-mail:** xfabiomonteirox@gmail.com
@@ -13,9 +12,11 @@ Blumenau-SC
 
 **Github:** xfabiomonteirox
 
-
 ---
 
+Apresento meu currículo para sua avaliação e, estando de acordo com o perfil desejado pela empresa, favor entrar em contato para quaisquer esclarecimentos, e fazendo necessário uma possível entrevista.
+
+---
 ## Competências
 
 **Back-End:**
@@ -26,7 +27,7 @@ Blumenau-SC
 **Front-End:**
 * HTML5/CSS3
 * Bootstrap
-* Responsive Design
+* Responsive Design / Material Design
 * Javascript
 * jQuery
 
@@ -50,7 +51,7 @@ Blumenau-SC
 
 ## Informações adicionais
 
-* Em busca de experiência na área de Front-End
+* Em busca de uma nova experiência, mais precisamente na área de Desenvolvimento de Softwares
 * Facilidade e muito interesse em aprender
 * Criatividade
 * Determinação e responsabilidade
@@ -61,7 +62,7 @@ Blumenau-SC
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Atualmente, estou em busca de uma nova oportunidade e de experiência na área de Desenvolvimento Web, mais precisamente como Front-End. Estou começando alguns projetos pessoais utilizando o framework Jekyll e as linguagens HTML5, CSS3, JavaScript/jQuery, e cursando alguns cursos como JS com TDD, entre outros.
+> Atualmente, estou em busca de uma nova oportunidade e de experiência na área de Desenvolvimento de Software, mais precisamente na linguagem C# .NET, onde atualmente estou cursando Desenvolvimento C# .Net pelo programa Entra21 da cidade de Blumenau - SC. Estou começando alguns projetos pessoais utilizando algumas linguagens, como HTML5, CSS3, JavaScript/jQuery, C# entre outras e também estou cursando alguns cursos como JS com TDD, Dominando Linq e Lambda Expressions com C#, dentre outros.
 
 * jun-2016/2018 - Analista de Suporte Jr. - **Linx**  **(Emprego Atual)**
 > Atuo como Analista de Suporte nível 2 na empresa **Linx** no segmento de Postos de Gasolina. Atualmente estou como instrutor interno dentro do suporte para disseminar o conhecimento no software AutoSystem, responsável pelos treinamentos internos de novos colaboradores, bem como de rotinas específicas do software em questão e de banco de dados, mais precisamente PostgreSQL.
