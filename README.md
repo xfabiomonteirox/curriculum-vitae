@@ -64,7 +64,7 @@ Apresento meu currículo para sua avaliação e, estando de acordo com o perfil 
 * **Projetos Pessoais**
 > Atualmente, estou em busca de uma nova oportunidade e de experiência na área de Desenvolvimento de Software, mais precisamente na linguagem C# .NET, onde atualmente estou cursando Desenvolvimento C# .Net pelo programa Entra21 da cidade de Blumenau - SC. Estou começando alguns projetos pessoais utilizando algumas linguagens, como HTML5, CSS3, JavaScript/jQuery, C# entre outras e também estou cursando alguns cursos como JS com TDD, Dominando Linq e Lambda Expressions com C#, dentre outros.
 
-* jun-2016/2018 - Analista de Suporte Jr. - **Linx**  **(Emprego Atual)**
+* jun-2016/2018 - Analista de Suporte Pl. - **Linx**  **(Emprego Atual)**
 > Atuo como Analista de Suporte nível 2 na empresa **Linx** no segmento de Postos de Gasolina. Atualmente estou como instrutor interno dentro do suporte para disseminar o conhecimento no software AutoSystem, responsável pelos treinamentos internos de novos colaboradores, bem como de rotinas específicas do software em questão e de banco de dados, mais precisamente PostgreSQL.
 
 * mar-2016/abr-2016 - Programador Junior - **QualityPress**
