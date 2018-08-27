@@ -51,7 +51,7 @@ Apresento meu currículo para sua avaliação e, estando de acordo com o perfil 
 
 ---
 
-## Informações adicionais
+## Informações Adicionais
 
 * Em busca de uma nova experiência, mais precisamente na área de Desenvolvimento de Softwares
 * Facilidade e muito interesse em aprender
