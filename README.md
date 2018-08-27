@@ -85,5 +85,5 @@ Apresento meu currículo para sua avaliação e, estando de acordo com o perfil 
 * **Graduação** - Bacharel em Sistemas de Informação pela Universidade do Estado de Santa Catarina - UDESC/CEPLAN
 * **Cursando** - C#.Net por Programa Entra21 Blusoft
 * **Curso** - Criando sites estáticos com Jekyll por Willian Justen de Vasconcellos
-* **Curso** - Git e Github para iniciantes por Willian Justen de Vasconcellos 
+* **Curso** - Git e GitHub para iniciantes por Willian Justen de Vasconcellos 
 * **Curso** - Linq e Lambda Expressions com C# por Paulo Rogério Martins Marques
