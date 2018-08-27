@@ -33,7 +33,9 @@ Apresento meu currículo para sua avaliação e, estando de acordo com o perfil 
 
 
 **Banco de Dados:**
+* SQL Server
 * PostgreSQL
+
 
 
 **Outros:**
