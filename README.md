@@ -13,10 +13,6 @@ Bairro: Vila Nova, CEP: 89035-100 - Blumenau-SC
 **Github:** xfabiomonteirox
 
 ---
-
-Apresento meu currículo para sua avaliação e, estando de acordo com o perfil desejado pela empresa, favor entrar em contato para quaisquer esclarecimentos, e fazendo necessário uma possível entrevista.
-
----
 ## Competências
 
 
